@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd0decc4.css",
-    "main.js": "/static/js/main.c6fd4b82.js",
-    "static/js/787.898ad132.chunk.js": "/static/js/787.898ad132.chunk.js",
-    "index.html": "/index.html",
-    "main.dd0decc4.css.map": "/static/css/main.dd0decc4.css.map",
-    "main.c6fd4b82.js.map": "/static/js/main.c6fd4b82.js.map",
-    "787.898ad132.chunk.js.map": "/static/js/787.898ad132.chunk.js.map"
+    "main.css": "/dorsu-notes-app/static/css/main.dd0decc4.css",
+    "main.js": "/dorsu-notes-app/static/js/main.d62c3df6.js",
+    "static/js/787.898ad132.chunk.js": "/dorsu-notes-app/static/js/787.898ad132.chunk.js",
+    "index.html": "/dorsu-notes-app/index.html",
+    "main.dd0decc4.css.map": "/dorsu-notes-app/static/css/main.dd0decc4.css.map",
+    "main.d62c3df6.js.map": "/dorsu-notes-app/static/js/main.d62c3df6.js.map",
+    "787.898ad132.chunk.js.map": "/dorsu-notes-app/static/js/787.898ad132.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd0decc4.css",
-    "static/js/main.c6fd4b82.js"
+    "static/js/main.d62c3df6.js"
   ]
 }
